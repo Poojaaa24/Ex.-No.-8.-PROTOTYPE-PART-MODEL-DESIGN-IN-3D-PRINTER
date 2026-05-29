@@ -46,7 +46,9 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-<img width="1618" height="1004" alt="image" src="https://github.com/user-attachments/assets/15805574-8e03-400a-9d07-4c73c7eef19e" />
+<img width="1033" height="548" alt="image" src="https://github.com/user-attachments/assets/f8229a0d-b331-44a5-b3a0-33947b2275b7" />
+
+<img width="1025" height="543" alt="image" src="https://github.com/user-attachments/assets/8311081e-ef48-491f-a39b-8dfdad238ff2" />
 
 ### Name: POOJA U
 ### Register Number: 212225230209
