@@ -46,9 +46,10 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
+<img width="1618" height="1004" alt="image" src="https://github.com/user-attachments/assets/15805574-8e03-400a-9d07-4c73c7eef19e" />
 
-### Name:
-### Register Number:
+### Name: POOJA U
+### Register Number: 212225230209
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
